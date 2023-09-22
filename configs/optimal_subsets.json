@@ -1,0 +1,24 @@
+{
+    "arrhythmia_label": "AF",
+    "dataset_path": "D:\\research_old\\research_large_files\\card_challenge\\training",
+    "description_file_name": "train_description.json",
+    "test_description_file_name": "test_description.json",
+    "features_path": "features/2020_all/whole_ds_processed_no_redundant.csv",
+    "ds_class_module": "datahelpers.allpreddata",
+    "ds_class_name": "AllPredData",
+    "log_name": "optimal_subsets/rf/optimal_subsets_recursive_rf_AF",
+    "classifier_parameters": {
+      "n_estimators": 150,
+      "min_samples_split": 2,
+      "min_samples_leaf": 2,
+      "max_depth": 97,
+      "bootstrap": true
+    },
+    "method": "recursive_feature_elimination_rf",
+    "n_samples": 40000,
+    "optimal_thresholds": [
+      0.24414194034630587,
+      0.4219608486304315,
+      0.44315606056256696
+      ]
+}

@@ -1,0 +1,36 @@
+{
+    "csv_path": "features/2020_all/whole_ds_processed.csv",
+    "output_csv_path": "features/2020_all/whole_ds_processed_no_redundant.csv",
+    "highly_corr_feats": [
+        "P_APE_MED",
+        "heart_rate_mean",
+        "HRV_MinNN",
+        "HRV_pNN20",
+        "min_delta_rr",
+        "T_PE_STD",
+        "HRV_MaxNN",
+        "HRV_CVSD",
+        "HRV_MCVNN",
+        "T_MPE_MED",
+        "MIN_HR",
+        "HRV_Prc80NN",
+        "HRV_RMSSD",
+        "HR_MEAN",
+        "median_rr_interval",
+        "MAX_HR",
+        "HRV_IQRNN",
+        "HRV_Prc20NN",
+        "HRV_CVNN",
+        "HRV_MedianNN",
+        "rmssd",
+        "HRV_SDSD"
+    ],
+    "rf_redundant_feats": [
+        "pNN60",
+        "T_MPE_STD",
+        "HRV_TINN",
+        "qrs_t_dur_std",
+        "qrs_t_dur_mean",
+        "HRV_HTI"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "record_len": 7000,
+    "models_path": "deeplearning/with_feats_extr/features_models",
+    "dataset_path": "D:\\research_old\\research_large_files\\card_challenge\\training",
+    "whole_description_file_name": "dataset_description.json",
+    "features_models": "deeplearning/with_feats_extr/features_models",
+    "features_save_path": "deeplearning/with_feats_extr/features"
+}

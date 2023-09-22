@@ -1,0 +1,5 @@
+{
+    "arrhythmia_label": "AF",
+    "features_path": "features/kor/features.csv",
+    "save_path": "make_figs/figures/baseline_char_kor.csv"
+}

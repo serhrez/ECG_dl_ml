@@ -1,0 +1,13 @@
+{
+    "record_len": 7000,
+    "models_path": "deeplearning/with_feats_extr/features_models",
+    "dataset_path": "D:\\research_old\\research_large_files\\card_challenge\\training",
+    "description_file_name": "dl_train_description.json",
+    "val_description_file_name": "dl_val_description.json",
+    "test_description_file_name": "test_description.json",
+    "whole_description_file_name": "dataset_description.json",
+    "save_log_path": "deeplearning/with_feats_extr/logs",
+    "combinations": [
+        ["AF", 0], ["AF", 1], ["AF", 2], ["AF", 3], ["AF", 4], ["AF", 5], ["AF", 6], ["AF", 7], ["AF", 8], ["AF", 9], ["AF", 10], ["AF", 11], ["IAVB", 0], ["IAVB", 1], ["IAVB", 2], ["IAVB", 3], ["IAVB", 4], ["IAVB", 5], ["IAVB", 6], ["IAVB", 7], ["IAVB", 8], ["IAVB", 9], ["IAVB", 10], ["IAVB", 11], ["LBBB", 0], ["LBBB", 1], ["LBBB", 2], ["LBBB", 3], ["LBBB", 4], ["LBBB", 5], ["LBBB", 6], ["LBBB", 7], ["LBBB", 8], ["LBBB", 9], ["LBBB", 10], ["LBBB", 11], ["PAC", 0], ["PAC", 1], ["PAC", 2], ["PAC", 3], ["PAC", 4], ["PAC", 5], ["PAC", 6], ["PAC", 7], ["PAC", 8], ["PAC", 9], ["PAC", 10], ["PAC", 11], ["PVC", 0], ["PVC", 1], ["PVC", 2], ["PVC", 3], ["PVC", 4], ["PVC", 5], ["PVC", 6], ["PVC", 7], ["PVC", 8], ["PVC", 9], ["PVC", 10], ["PVC", 11], ["RBBB", 0], ["RBBB", 1], ["RBBB", 2], ["RBBB", 3], ["RBBB", 4], ["RBBB", 5], ["RBBB", 6], ["RBBB", 7], ["RBBB", 8], ["RBBB", 9], ["RBBB", 10], ["RBBB", 11], ["STD", 0], ["STD", 1], ["STD", 2], ["STD", 3], ["STD", 4], ["STD", 5], ["STD", 6], ["STD", 7], ["STD", 8], ["STD", 9], ["STD", 10], ["STD", 11], ["STE", 0], ["STE", 1], ["STE", 2], ["STE", 3], ["STE", 4], ["STE", 5], ["STE", 6], ["STE", 7], ["STE", 8], ["STE", 9], ["STE", 10], ["STE", 11]
+    ]
+}

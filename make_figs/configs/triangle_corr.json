@@ -1,0 +1,4 @@
+{
+    "features_path": "features/all/whole_ds.csv",
+    "save_path": "make_figs/figures/triangle_corr_whole_ds.png"
+}

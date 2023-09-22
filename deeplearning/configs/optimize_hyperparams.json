@@ -1,0 +1,14 @@
+{
+    "models_path": "deeplearning/with_feats_extr/features_models",
+    "dataset_path": "D:\\research_old\\research_large_files\\card_challenge\\training",
+    "description_file_name": "dl_train_description.json",
+    "val_description_file_name": "dl_val_description.json",
+    "test_description_file_name": "test_description.json",
+    "whole_description_file_name": "dataset_description.json",
+    "features_path": "deeplearning/with_feats_extr/features",
+    "arrhythmia_label": "AF",
+    "directory": "deeplearning/with_feats_extr/hyperparameters_dirs",
+    "hyperparams_logs": "deeplearning/with_feats_extr/hyperparameters_logs",
+    "number_of_leads": 12,
+    "minimum_f1_scores_path": "deeplearning/with_feats_extr/configs/minimum_f1_scores.json"
+}

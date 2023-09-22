@@ -1,0 +1,8 @@
+{
+    "dataset_path": "D:\\research_old\\research_large_files\\card_challenge\\training",
+    "description_file_name": "dataset_description.json",
+    "extract_feats_path": "features/2020_all/whole_ds.csv",
+    "is_parallel": "True",
+    "supress_warnings": "True",
+    "log_name": "whole_ds.log"
+}

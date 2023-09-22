@@ -1,0 +1,98 @@
+{
+    "AF": {
+        "n_estimators": 120,
+        "min_samples_split": 2,
+        "min_samples_leaf": 2,
+        "max_depth": 30,
+        "bootstrap": true
+    },
+    "AF_optimal_thresholds": [
+        0.507935891809926,
+        0.4694176038437219,
+        0.4718904187849445
+    ],
+    "IAVB": {
+        "n_estimators": 200,
+        "min_samples_split": 2,
+        "min_samples_leaf": 2,
+        "max_depth": 30,
+        "bootstrap": true
+    },
+    "IAVB_optimal_thresholds": [
+        0.30640027047280866,
+        0.4533747409464879,
+        0.07952375414103824
+    ],
+    "LBBB": {
+        "n_estimators": 170,
+        "min_samples_split": 2,
+        "min_samples_leaf": 2,
+        "max_depth": 40,
+        "bootstrap": true
+    },
+    "LBBB_optimal_thresholds": [
+        0.2931547622906314,
+        0.45240741133452356,
+        0.10297666878865552
+    ],
+    "PAC": {
+        "n_estimators": 190,
+        "min_samples_split": 2,
+        "min_samples_leaf": 2,
+        "max_depth": 50,
+        "bootstrap": true
+    },
+    "PAC_optimal_thresholds": [
+        0.2916671122644149,
+        0.42705593343166054,
+        0.38891452971316753
+    ],
+    "PVC": {
+        "n_estimators": 190,
+        "min_samples_split": 2,
+        "min_samples_leaf": 2,
+        "max_depth": 30,
+        "bootstrap": true
+    },
+    "PVC_optimal_thresholds": [
+        0.2550916607389701,
+        0.4271654149027921,
+        0.1294267236462664
+    ],
+    "RBBB": {
+        "n_estimators": 220,
+        "min_samples_split": 2,
+        "min_samples_leaf": 2,
+        "max_depth": 50,
+        "bootstrap": true
+    },
+    "RBBB_optimal_thresholds": [
+        0.2518180078593734,
+        0.4344322559816617,
+        0.4709135422176729
+    ],
+    "STD": {
+        "n_estimators": 120,
+        "min_samples_split": 2,
+        "min_samples_leaf": 2,
+        "max_depth": 60,
+        "bootstrap": true
+    },
+    "STD_optimal_thresholds": [
+        0.1916905935786119,
+        0.3876412271025837,
+        0.17178977045866006
+    ],
+    "STE": {
+        "n_estimators": 190,
+        "min_samples_split": 2,
+        "min_samples_leaf": 2,
+        "max_depth": 30,
+        "bootstrap": true
+    },
+    "STE_optimal_thresholds": [
+        0.11999542477236802,
+        0.4376951299494608,
+        0.24277678149325999
+    ]
+}

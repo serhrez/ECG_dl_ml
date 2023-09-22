@@ -1,0 +1,5 @@
+{
+    "path": "features/2020_all/whole_ds.csv",
+    "path_processed": "features/2020_all/whole_ds_processed.csv",
+    "log_name": "whole_ds_process.json"
+}

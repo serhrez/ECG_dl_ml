@@ -1,0 +1,8 @@
+{
+    "dataset_path": "./../physionet2021_dataset",
+    "description_train": "train_description.json",
+    "description_test": "test_description.json",
+    "features_path": "features/all/whole_ds_processed.csv",
+    "ds_class_module": "datahelpers.allpreddata",
+    "ds_class_name": "AllPredData"
+}

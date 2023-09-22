@@ -1,0 +1,6 @@
+{
+    "input_log_path": "logs/optimal_subsets/dl_converted/PVC+1691098478.npy",
+    "output_dict_path": "logs/output_dict_temp.npy",
+    "open_from_saved": true,
+    "save_dir": "figures/dl"
+}

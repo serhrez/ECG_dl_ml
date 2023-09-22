@@ -1,0 +1,17 @@
+{
+    "record_len": 7000,
+    "arrhythmia_label": "AF",
+    "dataset_path": "D:\\research_old\\research_large_files\\card_challenge\\training",
+    "description_file_name": "dl_train_description.json",
+    "val_description_file_name": "dl_val_description.json",
+    "test_description_file_name": "test_description.json",
+    "whole_description_file_name": "dataset_description.json",
+    "save_models_path": "deeplearning/with_feats_extr/features_models",
+    "epochs": 20,
+    "batch_size": 32,
+    "learning_rate": 0.001,
+    "train_batches": 700,
+    "val_batches": 300,
+    "test_batches": 300,
+    "lead": 0
+}

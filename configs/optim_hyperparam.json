@@ -1,0 +1,12 @@
+{
+    "arrhythmia_label": "AF",
+    "dataset_path": "D:\\research_old\\research_large_files\\card_challenge\\training",
+    "description_file_name": "train_description.json",
+    "features_path": "features/2020_all/whole_ds_processed_no_redundant.csv",
+    "ds_class_module": "datahelpers.allpreddata",
+    "ds_class_name": "AllPredData",
+    "classifier_name": "random_forest",
+    "log_name": "hyperparams/hyperparams_rf",
+    "n_iters": 300,
+    "n_samples": 40000
+}

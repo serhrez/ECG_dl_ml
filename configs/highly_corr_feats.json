@@ -1,0 +1,20 @@
+{
+    "arrhythmia_label": "AF",
+    "dataset_path": "D:\\research_old\\research_large_files\\card_challenge\\training",
+    "description_file_name": "train_description.json",
+    "features_path": "features/2020_all/whole_ds_processed.csv",
+    "ds_class_module": "datahelpers.allpreddata",
+    "ds_class_name": "AllPredData",
+    "log_name": "highly_corr_feats",
+    "classifier_parameters": {
+      "n_estimators": 190,
+      "min_samples_split": 2,
+      "min_samples_leaf": 2,
+      "max_depth": 50,
+      "bootstrap": true
+    },
+    "n_samples": 40000,
+    "threshold_range_start": 0,
+    "threshold_range_end": 0.9,
+    "threshold_range_step": 0.05
+}
